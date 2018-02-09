@@ -17,5 +17,12 @@
 	
 	ggg
 	
+<<<<<<< HEAD
 	이것을 고치다
+=======
+	?????
+	
+	
+	
+>>>>>>> branch 'master' of https://github.com/sevenget/test.git
 %>
