@@ -2,10 +2,6 @@
 	response.sendRedirect(request.getContextPath() + "/list.do");
 	dkdksdlkfjlksjdflk
 	
-	이게 안될걸ㄹㄹㄹㄹㄹㄹㄹㄹㄹ
-	ddddd
-	
-	
 	ggggggggg
 	
 	코코코콬코
@@ -15,4 +11,20 @@
 	코리아
 	
 	안녕하세요
+	
+	
+	ddddddd
+	dsdfad
+	dsfasd
+	
+	ggg
+	
+<<<<<<< HEAD
+	이것을 고치다
+=======
+	?????
+	
+	
+	
+>>>>>>> branch 'master' of https://github.com/sevenget/test.git
 %>
